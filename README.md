@@ -5,7 +5,7 @@
 - 💻 I’m currently working on improving my Skills!
 - 🌱 I’m currently learning everything 🤣 whatever I get my hands on.
 - 👯 I’m looking forward contribute to open source community.
-- 🥅 2020-2021 Goals: Learn React Redux GraphQl Nodejs MongoDB Nextjs.
+- 🥅 2020-2021 Goals: Learn React Redux GraphQL Nodejs MongoDB Nextjs.
 - :man_office_worker: Work on projects and improve GitHub profile and learn in the process.
 - ✏️ I am good at sketching and giving painting a try.
 
