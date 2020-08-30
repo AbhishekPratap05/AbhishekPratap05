@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhishek Pratap - aka **AbhishekPratap05** 👋
 
 ## 💻 Web Developer ~1.5years!
-## 🎓 MCA (Master in Computer Application)
+## 🎓 MCA (Master of Computer Application)
 - 💻 I’m currently working on improving my Skills!
 - 🌱 I’m currently learning everything 🤣 whatever I get my hands on.
 - 👯 I’m looking forward contribute to open source community.
