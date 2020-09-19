@@ -42,6 +42,9 @@
 <details>
   <summary>:zap:  Recent Github Activity</summary>
   <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com//AbhishekPratap05/pack-man/issues/2) in [AbhishekPratap05/pack-man](https://github.com//AbhishekPratap05/pack-man)
+2. ❗️ Opened issue [#1](https://github.com//AbhishekPratap05/pack-man/issues/1) in [AbhishekPratap05/pack-man](https://github.com//AbhishekPratap05/pack-man)
+<!--END_SECTION:activity-->
 </details>
 
 <details>
