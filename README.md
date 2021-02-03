@@ -7,7 +7,7 @@
 - 👯 I’m looking forward contribute to open source community.
 - 🥅 2021-2022 Goals: Learn React GraphQL Nodejs MongoDB Nextjs webGL(threeJS).
 - :man_office_worker: Work on projects and improve GitHub profile and learn in the process.
-- ✏️ I am good at sketching and giving painting a try.
+- ✏️ I am good at sketching and planning on painting soon.
 
 ### Spotify Playing 🎧
 
