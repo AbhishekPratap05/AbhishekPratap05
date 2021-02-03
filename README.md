@@ -36,6 +36,8 @@
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-six-kappa.vercel.app/api?username=AbhishekPratap05&show_icons=true&hide_border=true" />
 </details>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [instagram]: https://www.instagram.com/ap_abhishekpratap
 [linkedin]: www.linkedin.com/in/abhishekpratap05121994
