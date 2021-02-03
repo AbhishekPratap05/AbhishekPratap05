@@ -1,11 +1,11 @@
 ### Hi there, I'm Abhishek Pratap - aka **AbhishekPratap05** 👋
 
-## 💻 Web Developer ~1.5years!
+## 💻 Web Developer ~2years!
 ## 🎓 MCA (Master of Computer Application)
 - 💻 I’m currently working on improving my Skills!
 - 🌱 I’m currently learning everything 🤣 whatever I get my hands on.
 - 👯 I’m looking forward contribute to open source community.
-- 🥅 2020-2021 Goals: Learn React Redux GraphQL Nodejs MongoDB Nextjs.
+- 🥅 2021-2022 Goals: Learn React GraphQL Nodejs MongoDB Nextjs webGL(threeJS).
 - :man_office_worker: Work on projects and improve GitHub profile and learn in the process.
 - ✏️ I am good at sketching and giving painting a try.
 
@@ -40,11 +40,8 @@
 
 
 <details>
-<details>
   <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-six-kappa.vercel.app/api?username=AbhishekPratap05&show_icons=true&hide_border=true" />
-
 </details>
 
 [instagram]: https://www.instagram.com/ap_abhishekpratap
