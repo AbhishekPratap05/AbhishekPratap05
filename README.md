@@ -40,13 +40,6 @@
 
 
 <details>
-  <summary>:zap:  Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/AbhishekPratap05/AbhishekPratap05/issues/1) in [AbhishekPratap05/AbhishekPratap05](https://github.com/AbhishekPratap05/AbhishekPratap05)
-2. 🗣 Commented on [#1](https://github.com/AbhishekPratap05/AbhishekPratap05/issues/1) in [AbhishekPratap05/AbhishekPratap05](https://github.com/AbhishekPratap05/AbhishekPratap05)
-<!--END_SECTION:activity-->
-</details>
-
 <details>
   <summary>:zap: Github Stats</summary>
 
