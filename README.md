@@ -5,7 +5,7 @@
 - 💻 I’m currently working on improving my Skills!
 - 🌱 I’m currently learning everything 🤣 whatever I get my hands on.
 - 👯 I’m looking forward contribute to open source community.
-- 🥅 2021-2022 Goals: Learn React Redux GraphQL Nodejs MongoDB Nextjs webGL(threeJS).
+- 🥅 2021-2022 Goals: Learn Nextjs React-native-web GraphQL React-Query Firebase MongoDB Redis webGL(threeJS).
 - :man_office_worker: Work on projects and improve GitHub profile and learn in the process.
 - ✏️ I am good at sketching and planning on painting soon.
 
@@ -27,7 +27,6 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
