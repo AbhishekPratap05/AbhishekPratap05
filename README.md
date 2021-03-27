@@ -2,8 +2,8 @@
 
 </br>
 
-## <div align="center" style="font-weight:700">  Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
-### <div align="center"> My name is Abhishek Pratap - aka **AbhishekPratap05** working as 💻 👨‍💻 Web  Developer for about **2+** years <img src="./assets/code.gif" style="vertical-align: middle" width="30px" ></div>
+### <div align="center" style="font-weight:700">  Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
+### <div align="center"> My name is Abhishek Pratap - aka **AbhishekPratap05** working as 👨‍💻 Web  Developer for about **2+** years <img src="./assets/code.gif" style="vertical-align: middle" width="30px" ></div>
 
 ```
 Abhishek_Pratap:.
