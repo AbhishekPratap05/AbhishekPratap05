@@ -91,11 +91,14 @@ Abhishek_Pratap:.
 ## Connect with me 🤝
 ---
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)][sendMail]
-[![Gmail](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][sendMail]
-[![Gmail](https://img.shields.io/badge/ap_abhishekpratap%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/ap_abhishekpratap%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
 
+</br>
+
+[![Duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)][duolingo] 
 
 [instagram]: https://www.instagram.com/ap_abhishekpratap
 [linkedin]: www.linkedin.com/in/abhishekpratap05121994
 [sendMail]: mailto:pratap.5dec@gmail.com
-[dulingo]: https://www.duolingo.com/profile/AbhishekPratap05
+[duolingo]: https://www.duolingo.com/profile/AbhishekPratap05
