@@ -28,7 +28,6 @@ Abhishek_Pratap:.
 </br></br>
 
 ## About Me 😎
----
 - 💻 I’m currently working on improving my Skills!
 - 🌱 I’m currently learning to build API using GraphQL.
 - 👯 I’m looking forward contribute to open source community.
@@ -39,7 +38,6 @@ Abhishek_Pratap:.
 </br></br>
 
 ## Languages and Tools 🛠
----
 <div>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -71,7 +69,6 @@ Abhishek_Pratap:.
 </br></br>
 
 ## Stats 📊
----
 <a href="https://github.com/AbhishekPratap05">
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-six-kappa.vercel.app/api/top-langs?username=AbhishekPratap05&show_icons=true&hide_border=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
@@ -89,7 +86,6 @@ Abhishek_Pratap:.
 </br></br>
 
 ## Connect with me 🤝
----
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)][sendMail]
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Instagram](https://img.shields.io/badge/ap_abhishekpratap%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
