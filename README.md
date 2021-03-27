@@ -1,41 +1,101 @@
-### Hi there, I'm Abhishek Pratap - aka **AbhishekPratap05** 👋
+[![Abhishek Pratap Banner Image](./assets/Banner.png)](https://github.com/AbhishekPratap05)
 
-## 💻 Web Developer ~2years!
-## 🎓 MCA (Master of Computer Application)
+</br>
+
+## <div align="center" style="font-weight:700">  Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
+### <div align="center"> My name is Abhishek Pratap - aka **AbhishekPratap05** working as 💻 👨‍💻 Web  Developer for about **2+** years <img src="./assets/code.gif" style="vertical-align: middle" width="30px" ></div>
+
+```
+Abhishek_Pratap:.
+│
+├───Work_Experience👨‍💻
+│   │
+│   └───Refinitiv
+│         2019-{new Date().getFullYear()}   
+│
+└───Education🎓
+    │   
+    ├───MCA(Master of Computer Application)
+    │	    Duration:2016-2019
+    │
+    ├───BCA(Bachelor of Computer Application)
+    │     Duration:2013-2016
+    │
+    └───12th
+          Completed_2013
+```
+
+</br></br>
+
+## About Me 😎
+---
 - 💻 I’m currently working on improving my Skills!
-- 🌱 I’m currently learning everything 🤣 whatever I get my hands on.
+- 🌱 I’m currently learning to build API using GraphQL.
 - 👯 I’m looking forward contribute to open source community.
-- 🥅 2021-2022 Goals: Learn React Redux GraphQL Nodejs MongoDB Nextjs webGL(threeJS).
+- 🥅 2021-2022 Goals: Learn Nextjs React-native-web GraphQL React-Query Firebase MongoDB Redis webGL(threeJS).
 - :man_office_worker: Work on projects and improve GitHub profile and learn in the process.
 - ✏️ I am good at sketching and planning on painting soon.
 
-### Spotify Playing 🎧
+</br></br>
+
+## Languages and Tools 🛠
+---
+<div>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+</div></br>
+<div>
+  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+  <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+
+</div></br>
+<div>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+</div></br>
+<div>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+</div></br>
+<div>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+</div></br>
+<div>
+<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</div>
+
+</br></br>
+
+## Stats 📊
+---
+<a href="https://github.com/AbhishekPratap05">
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-six-kappa.vercel.app/api/top-langs?username=AbhishekPratap05&show_icons=true&hide_border=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+</a>
+
+<a href="https://github.com/AbhishekPratap05">
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-six-kappa.vercel.app/api?username=AbhishekPratap05&show_icons=true&hide_border=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+</br></br>
+
+## <div align="left"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> <img src="./assets/music.gif" width="50px"></div>
 
 [![Spotify](https://novatorem-orcin-beta.vercel.app/api/spotify)](https://open.spotify.com/user/b8l3m9jybl9xuhri2bu2qxmlo)
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</br></br>
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-</br>
+## Connect with me 🤝
 ---
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-six-kappa.vercel.app/api?username=AbhishekPratap05&show_icons=true&hide_border=true" />
-</details>
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)][sendMail]
+[![Gmail](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][sendMail]
+[![Gmail](https://img.shields.io/badge/ap_abhishekpratap%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+
 
 [instagram]: https://www.instagram.com/ap_abhishekpratap
 [linkedin]: www.linkedin.com/in/abhishekpratap05121994
+[sendMail]: mailto:pratap.5dec@gmail.com
+[dulingo]: https://www.duolingo.com/profile/AbhishekPratap05
