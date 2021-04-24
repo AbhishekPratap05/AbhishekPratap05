@@ -31,7 +31,7 @@ Abhishek_Pratap:.
 - 💻 I’m currently working on improving my Skills!
 - 🌱 I’m currently learning to build API using GraphQL.
 - 👯 I’m looking forward to contribute to open source community.
-- 🥅 2021-2022 Goals: Learn Nextjs React-native-web GraphQL React-Query Firebase MongoDB Redis webGL(threeJS).
+- 🥅 2021-2022 Goals: Learn Nextjs React-native-web GraphQL React-Query Firebase MongoDB.
 - :man_office_worker: Work on projects and improve GitHub profile and learn in the process.
 - ✏️ I am good at sketching and planning on painting soon.
 
@@ -48,7 +48,6 @@ Abhishek_Pratap:.
 <div>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 
 </div></br>
 <div>
@@ -63,7 +62,11 @@ Abhishek_Pratap:.
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 </div></br>
 <div>
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+</div></br>
+<div>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 </br></br>
