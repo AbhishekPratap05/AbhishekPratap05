@@ -3,7 +3,7 @@
 </br>
 
 ### <div align="center" style="font-weight:700">  <h3>Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3></div>
-### <div align="center"> My name is Abhishek Pratap - aka **AbhishekPratap05** working as a Web Developer 👨‍💻 for about **2+** years <img src="./assets/code.gif" style="vertical-align: middle" width="30px" ></div>
+### <div align="center"> My name is Abhishek Pratap - aka **AbhishekPratap05** working as a Web Developer 👨‍💻 for about **3.5+** years <img src="./assets/code.gif" style="vertical-align: middle" width="30px" ></div>
 
 ```
 Abhishek_Pratap:.
@@ -31,7 +31,7 @@ Abhishek_Pratap:.
 - 💻 I’m currently working on improving my Skills!
 - 🌱 I’m currently learning to build API using GraphQL.
 - 👯 I’m looking forward to contribute to open source community.
-- 🥅 2021-2022 Goals: Learn Nextjs React-native-web GraphQL React-Query Firebase MongoDB.
+- 🥅 2021-2022 Goals: Learn Nextjs GraphQL React-Query Firebase.
 - :man_office_worker: Work on projects and improve GitHub profile and learn in the process.
 - ✏️ I am good at sketching and planning on painting soon.
 
