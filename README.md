@@ -10,7 +10,7 @@ Abhishek_Pratap:.
 │
 ├───Work_Experience👨‍💻
 │   │
-│   └───Refinitiv
+│   └───London Stock Exchange Group
 │         2019-{new Date().getFullYear()}   
 │
 └───Education🎓
