@@ -9,9 +9,10 @@
 Abhishek_Pratap:.
 │
 ├───Work_Experience👨‍💻
-│   │
+│   ├───7Eleven GSC
+│   │	  `2022-12 - ${new Date().getFullYear()}-${new Date().getMonth()}`
 │   └───London Stock Exchange Group
-│         2019-{new Date().getFullYear()}   
+│         `2019-02 - 2022-12`
 │
 └───Education🎓
     │   
@@ -22,16 +23,16 @@ Abhishek_Pratap:.
     │     Duration:2013-2016
     │
     └───12th
-          Completed_2013
+          Completed-2013
 ```
 
 </br></br>
 
 ## About Me 😎
 - 💻 I’m currently working on improving my Skills!
-- 🌱 I’m currently learning to build API using GraphQL.
+- 🌱 I’m currently learning NextJS and MongoDB.
 - 👯 I’m looking forward to contribute to open source community.
-- 🥅 2022-2023 Goals: Learn GraphQL React-Query Firebase.
+- 🥅 2024-2025 Goals: Learn NextJS SolidJS Firebase.
 - :man_office_worker: Work on projects and improve GitHub profile and learn in the process.
 - ✏️ I am good at sketching and planning on painting soon.
 
