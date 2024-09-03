@@ -83,12 +83,6 @@ Abhishek_Pratap:.
 
 </br></br>
 
-## <div align="left"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> <img src="./assets/music.gif" width="50px"></div>
-
-[![Spotify](https://novatorem-orcin-beta.vercel.app/api/spotify)](https://open.spotify.com/user/b8l3m9jybl9xuhri2bu2qxmlo)
-
-</br></br>
-
 ## Connect with me 🤝
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)][sendMail]
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
