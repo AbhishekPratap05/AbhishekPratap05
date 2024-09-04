@@ -90,9 +90,13 @@ Abhishek_Pratap:.
 
 </br>
 
+## Google Developer Profile
+[![GooleDev]([https://img.shields.io/badge/google](https://img.shields.io/badge/google%20Developer%20-%230077B5.svg?&style=for-the-badge&logo=google&logoColor=white))][GoogleDev]
+
 [![Duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)][duolingo] 
 
 [instagram]: https://www.instagram.com/ap_abhishekpratap
-[linkedin]: www.linkedin.com/in/abhishekpratap05121994
+[linkedin]: www.linkedin.com/in/abhishekpratap05
 [sendMail]: mailto:pratap.5dec@gmail.com
 [duolingo]: https://www.duolingo.com/profile/AbhishekPratap05
+[GoogleDev]: https://g.dev/abhishekpratap05
