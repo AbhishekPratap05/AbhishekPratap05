@@ -86,12 +86,10 @@ Abhishek_Pratap:.
 ## Connect with me 🤝
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)][sendMail]
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![GooleDev](https://img.shields.io/badge/google%20Developer%20-%230077B5.svg?&style=for-the-badge&logo=google&logoColor=white))][GoogleDev]
 [![Instagram](https://img.shields.io/badge/ap_abhishekpratap%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
 
 </br>
-
-## Google Developer Profile
-[![GooleDev]([https://img.shields.io/badge/google](https://img.shields.io/badge/google%20Developer%20-%230077B5.svg?&style=for-the-badge&logo=google&logoColor=white))][GoogleDev]
 
 [![Duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)][duolingo] 
 
